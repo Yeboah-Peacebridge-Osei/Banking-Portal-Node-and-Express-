@@ -32,4 +32,6 @@ Built-in testing tools let you rigorously test your banking portal's core featur
 Community Catalyst: 
 Access a dedicated community of Express developers specializing in secure financial applications, always ready to support your banking ambitions.
 
-
+General Todos:
+1. Create several routes that will display data and read from files
+2. Create several routes that will handle form data and then write that data to a file.
